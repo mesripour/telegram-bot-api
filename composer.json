@@ -1,0 +1,9 @@
+{
+    "require": {
+        "league/container": "^2.2",
+        "mongodb/mongodb": "^1.0.0",
+        "monolog/monolog": "^1.21",
+        "guzzlehttp/guzzle": "^6.2",
+        "lcobucci/jwt": "^3.2"
+    }
+}
